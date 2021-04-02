@@ -1,1 +1,1 @@
-Html, CSS, and Bootstrap all work together on this project to create a responsive and constantly updated portfolio
+This is the first edition of my portfolio I am working on building. I was using bootstrap libraries with HTML and CSS. I added an about me, a carousel with photos of my art and cards that had more pictures and descriptions. I also made a contact form and added a sticky navigation bar. I used overlays for the first time and used google fonts and fontawesome.
